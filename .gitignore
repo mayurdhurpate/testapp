@@ -3,3 +3,9 @@ venv
 staticfiles
 .env
 db.sqlite3
+.DS_Store
+*.log
+*.pot
+__pycache__/
+local_settings.py
+media
